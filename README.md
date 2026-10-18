@@ -2,7 +2,7 @@
 
 This project demonstrates how to automate sending and receiving emails, and sending SMS messages, using Python. It uses `smtplib` for sending, `imaplib` for receiving, and email-to-SMS gateways for text messages. Credentials are loaded securely from a `.env` file with `python-dotenv`.
 
-**Student:** see `STUDENT_NAME` / `STUDENT_ID` — every email sent by this script shows the student's name and ID in the subject and body.
+**Student:** เมธาวี สิทธิชัยเนตร — 663380372-6 (every email sent by this script shows the name and student ID in the subject and body).
 
 ## Screenshot: email notification from running the code
 
